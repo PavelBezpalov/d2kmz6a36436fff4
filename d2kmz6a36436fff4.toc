@@ -1,0 +1,10 @@
+## Interface: 100007
+## Title: d2kmz6a36436fff4
+## Notes: d2kmz6a36436fff4
+## LoadOnDemand: 0
+## DefaultState: enabled
+## Dependencies: bxhnz7tp5bge7wvu
+
+spellbook.lua
+havoc.lua
+vengeance.lua
